@@ -1,5 +1,7 @@
 
 
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -89,17 +91,23 @@ html {
 
 
 #hed  {
+  float:none;
   margin-left: 20%;
   font-size: 40px;
   animation: fadeIn 5s;
   white-space:nowrap;
+ 
+  
   text-shadow: #111;
 }
-
 #hed2 {
+  float:none;
   margin-left: 20%;
   font-size: 25px;
   animation: fadeIn 8s;
+  white-space: pre;
+ 
+  
   text-shadow: #111;
 }
 
@@ -132,6 +140,9 @@ html {
   top: 133px; right: 60px;
   animation: fadeIn 5s;
 }
+
+
+
 
 
 
